@@ -7,7 +7,7 @@ except:
 	live = True
 
 if live:
-	from .product import *
+	from .production import *
 
 # try:
 # 	from .production import *
